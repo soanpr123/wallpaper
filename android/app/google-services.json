@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "50611175539",
+    "project_id": "walls-8e370",
+    "storage_bucket": "walls-8e370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50611175539:android:e85e5f7456282f415c2a06",
+        "android_client_info": {
+          "package_name": "com.slv.wall.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50611175539-bar24kls8psmsmvqf125a74ai758q5c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slv.wall.wallpaper",
+            "certificate_hash": "52e5d82273f34f91fcb41fe7f382133c01d83aaf"
+          }
+        },
+        {
+          "client_id": "50611175539-itu0b8vgbebvq033k8pp3imnksbfnd84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slv.wall.wallpaper",
+            "certificate_hash": "7ee251ffb99584c1c90e72f93c97b7e488ff8e8f"
+          }
+        },
+        {
+          "client_id": "50611175539-lt4l7i0eoi1u617lpdvc5svm9l4icj40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slv.wall.wallpaper",
+            "certificate_hash": "296f49e9ebf79c5e74bff4bb27505f5763aafb85"
+          }
+        },
+        {
+          "client_id": "50611175539-66ithood1o9bg1aoifncni5gkacdd0lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRYgdLJjaEXr9BBp5TSMdzDLJdFTfZJoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50611175539-66ithood1o9bg1aoifncni5gkacdd0lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
